@@ -1,4 +1,3 @@
-
 FROM openshift/golang-builder:1.16 AS builder
 
 ENV CGO_ENABLED=0
